@@ -26,6 +26,11 @@
 - https://github.com/InVisionApp/go-health
 - Library for enabling asynchronous health checks in your service
 
+## [json-iterator](https://github.com/json-iterator)/**[go](https://github.com/json-iterator/go)**
+
+- https://github.com/json-iterator/go
+-  A high-performance 100% compatible drop-in replacement of "encoding/json" [http://jsoniter.com/migrate-from-go-s…](http://jsoniter.com/migrate-from-go-std.html)
+
 ## [nusr](https://github.com/nusr)/**hacker-laws-zh**
 
 - https://github.com/nusr/hacker-laws-zh
