@@ -19,17 +19,17 @@
 ## [GitHubDaily](https://github.com/GitHubDaily)/**[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)**
 
 - https://github.com/GitHubDaily/GitHubDaily
--  GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 
+-  GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 
 ## [goproxy](https://github.com/goproxy)/**[goproxy.cn](https://github.com/goproxy/goproxy.cn)**
 
 - https://github.com/goproxy/goproxy.cn
--  The most trusted Go module proxy in China. [https://goproxy.cn](https://goproxy.cn/)
+- The most trusted Go module proxy in China. [https://goproxy.cn](https://goproxy.cn/)
 
 ## [iawia002](https://github.com/iawia002)/**[annie](https://github.com/iawia002/annie)**
 
 - https://github.com/iawia002/annie
-- 👾 Fast, simple and clean video downloader 
+- 👾 Fast, simple and clean video downloader
 
 ## [InVisionApp](https://github.com/InVisionApp)/**go-health**
 
@@ -39,7 +39,7 @@
 ## [json-iterator](https://github.com/json-iterator)/**[go](https://github.com/json-iterator/go)**
 
 - https://github.com/json-iterator/go
--  A high-performance 100% compatible drop-in replacement of "encoding/json" [http://jsoniter.com/migrate-from-go-s…](http://jsoniter.com/migrate-from-go-std.html)
+- A high-performance 100% compatible drop-in replacement of "encoding/json" [http://jsoniter.com/migrate-from-go-s…](http://jsoniter.com/migrate-from-go-std.html)
 
 ## [nusr](https://github.com/nusr)/**hacker-laws-zh**
 
