@@ -16,6 +16,11 @@
 - [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
 - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 [https://auauz.net](https://auauz.net/)
 
+## [GitHubDaily](https://github.com/GitHubDaily)/**[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)**
+
+- https://github.com/GitHubDaily/GitHubDaily
+-  GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 
+
 ## [goproxy](https://github.com/goproxy)/**[goproxy.cn](https://github.com/goproxy/goproxy.cn)**
 
 - https://github.com/goproxy/goproxy.cn
