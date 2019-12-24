@@ -21,6 +21,12 @@
 - https://github.com/GitHubDaily/GitHubDaily
 -  GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 
+## [gzc426](https://github.com/gzc426)/**[Java-Interview](https://github.com/gzc426/Java-Interview)**
+
+- https://github.com/gzc426/Java-Interview
+- Java 面试必会 直通BAT
+- 该项目是一个Java面试指南，包含Java基础知识、项目推荐、知识点整理、Java相关资源整理以及MySQL优化等
+
 ## [goproxy](https://github.com/goproxy)/**[goproxy.cn](https://github.com/goproxy/goproxy.cn)**
 
 - https://github.com/goproxy/goproxy.cn
@@ -60,3 +66,9 @@
 
 - https://github.com/xmge/gonote
 - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 👍
+
+## [zhangdaiscott](https://github.com/zhangdaiscott)/**[jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)**
+
+- https://github.com/zhangdaiscott/jeecg-boot
+- 一款基于代码生成器的JAVA快速开发平台(低代码开发平台)，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等 [http://www.jeecg.com](http://www.jeecg.com/)
+- 这是一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码！号称可以帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。
