@@ -4,6 +4,7 @@
 
 - [https://github.com/alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox)
 - Real - time non-invasive AOP framework container based on JVM
+- 基于JVM的实时非侵入AOP框架容器
 
 ## [apache](https://github.com/apache)/**incubator-dolphinscheduler**
 
@@ -15,6 +16,7 @@
 
 - [https://github.com/claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp)
 - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. https://claudiodangelis.com/qrcp
+- 通过扫描QR码，无需离开终端即可通过wifi将文件从计算机传输到移动设备。
 
 ## [elunez](https://github.com/elunez)/**eladmin**
 
@@ -36,16 +38,19 @@
 
 - [https://github.com/goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)
 - The most trusted Go module proxy in China. [https://goproxy.cn](https://goproxy.cn/)
+- 中国最受信任的Go模块代理。
 
 ## [iawia002](https://github.com/iawia002)/**[annie](https://github.com/iawia002/annie)**
 
 - [https://github.com/iawia002/annie](https://github.com/iawia002/annie)
 - 👾 Fast, simple and clean video downloader
+- 快速，简单，干净的视频下载器
 
 ## [json-iterator](https://github.com/json-iterator)/**[go](https://github.com/json-iterator/go)**
 
 - [https://github.com/json-iterator/go](https://github.com/json-iterator/go)
 - A high-performance 100% compatible drop-in replacement of "encoding/json" [http://jsoniter.com/migrate-from-go-s…](http://jsoniter.com/migrate-from-go-std.html)
+- 高性能100％兼容的“ encoding / json”替代产品
 
 ## [nusr](https://github.com/nusr)/**hacker-laws-zh**
 
@@ -61,6 +66,7 @@
 
 - [https://github.com/uber-go/guide](https://github.com/uber-go/guide)
 - The Uber Go Style Guide.
+- Uber Go风格指南。
 
 ## [xmge](https://github.com/xmge)/**gonote**
 
