@@ -11,6 +11,11 @@
 - Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度) [https://dolphinscheduler.apache.org](https://dolphinscheduler.apache.org/)
 - Dolphin Scheduler是一个分布式易扩展的可视化 DAG 工作流任务调度系统，致力于解决数据处理流程中错综复杂的依赖关系，同时具有强大的可视化操作界面。
 
+## [claudiodangelis](https://github.com/claudiodangelis)/**[qrcp](https://github.com/claudiodangelis/qrcp)**
+
+- [https://github.com/claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp)
+- ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. https://claudiodangelis.com/qrcp
+
 ## [elunez](https://github.com/elunez)/**eladmin**
 
 - [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
