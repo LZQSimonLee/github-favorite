@@ -83,6 +83,11 @@
 - [https://github.com/xmge/gonote](https://github.com/xmge/gonote)
 - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 👍
 
+## [yanue](https://github.com/yanue)/**[V2rayU](https://github.com/yanue/V2rayU)**
+
+- [https://github.com/yanue/V2rayU](https://github.com/yanue/V2rayU)
+- V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 https://github.com/yanue/V2rayU
+
 ## [YunaiV](https://github.com/YunaiV)/**[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)**
 
 - [https://github.com/YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)
