@@ -40,6 +40,11 @@
 - The most trusted Go module proxy in China. [https://goproxy.cn](https://goproxy.cn/)
 - 中国最受信任的Go模块代理。
 
+## [Hunlongyu](https://github.com/Hunlongyu)/**[ZY-Player](https://github.com/Hunlongyu/ZY-Player)**
+
+- [https://github.com/Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+- ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞 [http://zyplayer.fun](http://zyplayer.fun/)
+
 ## [iawia002](https://github.com/iawia002)/**[annie](https://github.com/iawia002/annie)**
 
 - [https://github.com/iawia002/annie](https://github.com/iawia002/annie)
