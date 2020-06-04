@@ -18,6 +18,11 @@
 - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. https://claudiodangelis.com/qrcp
 - 通过扫描QR码，无需离开终端即可通过wifi将文件从计算机传输到移动设备。
 
+## [CopyTranslator](https://github.com/CopyTranslator)/**[CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)**
+
+- [https://github.com/CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+- Foreign language reading and translation assistant based on copy and translate. [https://copytranslator.github.io](https://copytranslator.github.io/)
+
 ## [elunez](https://github.com/elunez)/**eladmin**
 
 - [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
