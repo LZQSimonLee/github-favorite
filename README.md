@@ -113,11 +113,6 @@
 - A collection of algorithms and data structures
 - 算法和数据结构是高效代码和良好软件设计的基础。要成为一名优秀的程序员，就需要创建和设计出色的算法。该存储库的目标是演示如何以最简单，最优雅的方式正确实现常见的数据结构和算法。
 
-## [xmge](https://github.com/xmge)/**gonote**
-
-- [https://github.com/xmge/gonote](https://github.com/xmge/gonote)
-- 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go. 👍
-
 ## [YunaiV](https://github.com/YunaiV)/**[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)**
 
 - [https://github.com/YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)
