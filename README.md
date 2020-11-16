@@ -50,6 +50,11 @@
 - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
 - [github.com/h2pl/java-tutorial](https://github.com/h2pl/Java-Tutorial)
 
+## [huanzi-qch](https://github.com/huanzi-qch)/**[base-admin](https://github.com/huanzi-qch/base-admin)**
+
+- [https://github.com/huanzi-qch/base-admin](https://github.com/huanzi-qch/base-admin)
+- Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
+
 ## [Hunlongyu](https://github.com/Hunlongyu)/**[ZY-Player](https://github.com/Hunlongyu/ZY-Player)**
 
 - [https://github.com/Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)
@@ -95,6 +100,12 @@
 - [https://github.com/uber-go/guide](https://github.com/uber-go/guide)
 - The Uber Go Style Guide.
 - Uber Go风格指南。
+
+## [v2fly](https://github.com/v2fly)/**[v2ray-core](https://github.com/v2fly/v2ray-core)**
+
+- [https://github.com/v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
+- A platform for building proxies to bypass network restrictions.
+- V2Ray是一个优秀的开源网络代理工具,可以帮助你畅爽体验互联网,目前已经全平台支持Windows、Mac、Android、IOS、Linux(没电脑上Linux啦)等操作系统。
 
 ## [williamfiset](https://github.com/williamfiset)/**[Algorithms](https://github.com/williamfiset/Algorithms)**
 
